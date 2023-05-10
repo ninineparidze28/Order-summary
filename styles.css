@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #D6E1FF;
+}
+.main{
+    background-color: white;
+    margin: auto;
+    width: 450px;
+    border-radius: 20px;
+}
+.image{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.summary{
+    
+    padding-right: 48px;
+    padding-left: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.songs{
+    margin-top: 17px;
+    
+    font-size: 16px;
+    line-height: 26px;
+    color: #717FA6;
+    text-align: center;
+    width: 354px;
+}
+h1{
+    margin-top: 45px;
+    font-size: 28px;
+    font-weight: 900;
+    height: 37px;
+    line-height: 37.04px;
+    color: #1F2E55;
+    text-align: center;
+}
+.Annual{
+    font-size: 16px;
+    font-weight: 900;
+    color: #1F2E55;
+    line-height: 21.17px;
+}
+.year{
+    color:#717FA6 ;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+.second{
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.musicdiv{
+    display: flex;
+    width: 306px;
+    height: 98px;
+    align-items: center;
+    justify-content:space-between;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.musicicon{
+    width: 48px;
+    height: 48px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.payment{
+    width: 354px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 11px;
+    background-color: #382AE1;
+    display: flex;
+    justify-content: center;
+}
+.proceed{
+    
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 19.85px;
+}
+.order{
+    color: #717FA6;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 20px;
+    
+
+}
+.borderdiv{
+    width: 354px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+    margin-bottom: 33px;
+    
+}
+
